@@ -36,7 +36,8 @@ docs/
 ├─ 05-ai-assistant.md        内置语音助手（讯飞 AIUI）分析
 ├─ 06-timeline.md            完整时间线
 ├─ 07-all-attempts.md        【完整清单】20 条路径逐条记录，含失败原因
-└─ 08-recovery.md            【恢复手册】分区表、备份清单、分场景救砖
+├─ 08-recovery.md            【恢复手册】分区表、备份清单、分场景救砖
+└─ 09-stock-reference.md     【原版参考】81 项分区表 + 各分区 SHA256 校验和
 tools/
 └─ brom.py                   自写的 BROM 客户端（Python + pyusb）
 ```
