@@ -34,7 +34,9 @@ docs/
 ├─ 03-partition-analysis.md  分区表与容量造假
 ├─ 04-unlock-attempts.md     解锁尝试，以及一个决定性的单字节实验
 ├─ 05-ai-assistant.md        内置语音助手（讯飞 AIUI）分析
-└─ 06-timeline.md            完整时间线
+├─ 06-timeline.md            完整时间线
+├─ 07-all-attempts.md        【完整清单】20 条路径逐条记录，含失败原因
+└─ 08-recovery.md            【恢复手册】分区表、备份清单、分场景救砖
 tools/
 └─ brom.py                   自写的 BROM 客户端（Python + pyusb）
 ```
